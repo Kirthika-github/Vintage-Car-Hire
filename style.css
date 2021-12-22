@@ -1,0 +1,27 @@
+.heading h3 {
+text-align: center;
+font-weight: bold;
+}
+.heading {
+font-family:serif;
+color: darkcyan;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 10;
+}
+
+form {
+background-color:lightgray;
+width: 50%
+}
+
+.col-12 {
+    padding: 5px;;
+}
+
+footer {
+    text-align: center;
+}
